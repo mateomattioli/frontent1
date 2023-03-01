@@ -1,0 +1,40 @@
+body {
+    background-color: #ffffff;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.titles {
+    color: #005677;
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+}
+
+.h1 {
+    color: #005677;
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.no-list {
+    list-style-type: none;
+}
+
+.footer {
+    background-color: #005677;
+    text-align: center;
+}
+
+footer p {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+footer img {
+    margin: 0 10px;
+}
